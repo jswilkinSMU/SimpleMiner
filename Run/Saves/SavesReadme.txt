@@ -1,0 +1,1 @@
+This folder is where the Chunks are written to and read from when saved and loaded.
