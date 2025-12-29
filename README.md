@@ -79,3 +79,8 @@ A 3D voxel world generator based off of Minecraft, created with my custom game e
 		- Digging obtains a block and adds to slot if block doesn't already have a stack that isn't full.
 		- Placing removes a block from current stack.
 	
+### Build and Use:
+
+	1. Download and Extract the zip folder.
+	2. Open the Run folder.
+	3. Double-click SimpleMiner_Release_x64.exe to start the program.
